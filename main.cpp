@@ -1,3 +1,5 @@
+// Fort Street Code
+
 #define ANALYSER    0
 #define GETTOSEARCH 1
 #define INITSEARCH  2
